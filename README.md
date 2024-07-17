@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1207-delete-nodes-and-return-forest](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1207-delete-nodes-and-return-forest) |
 | [1720-crawler-log-folder](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1720-crawler-log-folder) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
@@ -55,20 +56,24 @@
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0726-number-of-atoms) |
+| [1207-delete-nodes-and-return-forest](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Tree
 |  |
 | ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Database
 |  |
