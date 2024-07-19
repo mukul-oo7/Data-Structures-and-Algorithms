@@ -7,6 +7,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1121-partition-array-for-maximum-sum](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1121-partition-array-for-maximum-sum) |
 | [1207-delete-nodes-and-return-forest](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1207-delete-nodes-and-return-forest) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1720-crawler-log-folder](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1720-crawler-log-folder) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
@@ -85,4 +86,8 @@
 | ------- |
 | [1153-product-sales-analysis-i](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1153-product-sales-analysis-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+## Matrix
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
