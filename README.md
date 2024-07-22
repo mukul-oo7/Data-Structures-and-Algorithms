@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1121-partition-array-for-maximum-sum](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1121-partition-array-for-maximum-sum) |
 | [1207-delete-nodes-and-return-forest](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1207-delete-nodes-and-return-forest) |
@@ -64,6 +65,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0726-number-of-atoms](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -107,4 +109,12 @@
 |  |
 | ------- |
 | [2472-build-a-matrix-with-conditions](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2472-build-a-matrix-with-conditions) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+## Trie
+|  |
+| ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
