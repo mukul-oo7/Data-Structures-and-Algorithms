@@ -11,6 +11,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1720-crawler-log-folder) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2502-sort-the-people) |
@@ -27,6 +28,7 @@
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0726-number-of-atoms) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2502-sort-the-people) |
 ## Math
 |  |
@@ -68,6 +70,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0726-number-of-atoms](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1207-delete-nodes-and-return-forest) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2502-sort-the-people) |
 ## Tree
