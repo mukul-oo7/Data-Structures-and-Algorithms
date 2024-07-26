@@ -63,6 +63,7 @@
 | ------- |
 | [0836-race-car](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0836-race-car) |
 | [1121-partition-array-for-maximum-sum](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1121-partition-array-for-maximum-sum) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Greedy
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 ## Graph
 |  |
 | ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2472-build-a-matrix-with-conditions](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2472-build-a-matrix-with-conditions) |
 ## Topological Sort
 |  |
@@ -148,4 +150,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0948-sort-an-array) |
+## Shortest Path
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
