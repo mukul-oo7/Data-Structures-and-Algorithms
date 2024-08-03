@@ -12,6 +12,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1207-delete-nodes-and-return-forest) |
 | [1333-sort-the-jumbled-numbers](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -35,6 +36,7 @@
 | [0726-number-of-atoms](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1333-sort-the-jumbled-numbers) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2502-sort-the-people) |
 ## Math
@@ -84,6 +86,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0726-number-of-atoms](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1207-delete-nodes-and-return-forest) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2502-sort-the-people) |
