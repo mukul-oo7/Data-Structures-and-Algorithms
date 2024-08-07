@@ -22,6 +22,7 @@
 | [2472-build-a-matrix-with-conditions](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2502-sort-the-people) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3438-peaks-in-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3438-peaks-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -188,4 +189,12 @@
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3438-peaks-in-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3438-peaks-in-array) |
+## Segment Tree
+|  |
+| ------- |
+| [3438-peaks-in-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3438-peaks-in-array) |
 <!---LeetCode Topics End-->
