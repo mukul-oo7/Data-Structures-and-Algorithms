@@ -6,6 +6,7 @@
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0921-spiral-matrix-iii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0948-sort-an-array) |
 | [1121-partition-array-for-maximum-sum](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1121-partition-array-for-maximum-sum) |
 | [1196-filling-bookcase-shelves](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1196-filling-bookcase-shelves) |
@@ -50,6 +51,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1642-water-bottles) |
 ## String
 |  |
@@ -131,6 +133,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2472-build-a-matrix-with-conditions) |
