@@ -14,6 +14,7 @@
 | [1121-partition-array-for-maximum-sum](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1121-partition-array-for-maximum-sum) |
 | [1196-filling-bookcase-shelves](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1207-delete-nodes-and-return-forest) |
+| [1240-stone-game-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1240-stone-game-ii) |
 | [1333-sort-the-jumbled-numbers](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -52,6 +53,7 @@
 | ------- |
 | [0273-integer-to-english-words](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0870-magic-squares-in-grid) |
+| [1240-stone-game-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1642-water-bottles) |
 ## Simulation
 |  |
@@ -87,6 +89,7 @@
 | [0836-race-car](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0836-race-car) |
 | [1121-partition-array-for-maximum-sum](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1121-partition-array-for-maximum-sum) |
 | [1196-filling-bookcase-shelves](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1240-stone-game-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Greedy
@@ -243,4 +246,12 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0040-combination-sum-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1240-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
