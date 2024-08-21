@@ -64,6 +64,7 @@
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0273-integer-to-english-words) |
+| [0664-strange-printer](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1720-crawler-log-folder) |
@@ -86,6 +87,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0664-strange-printer](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0664-strange-printer) |
 | [0836-race-car](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0836-race-car) |
 | [1121-partition-array-for-maximum-sum](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1121-partition-array-for-maximum-sum) |
 | [1196-filling-bookcase-shelves](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1196-filling-bookcase-shelves) |
