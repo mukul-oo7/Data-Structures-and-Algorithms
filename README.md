@@ -22,6 +22,7 @@
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2035-count-sub-islands](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2035-count-sub-islands) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -149,6 +150,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2035-count-sub-islands) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Database
 |  |
@@ -163,6 +165,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2035-count-sub-islands](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2035-count-sub-islands) |
 | [2472-build-a-matrix-with-conditions](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2472-build-a-matrix-with-conditions) |
 ## Graph
 |  |
@@ -239,6 +242,7 @@
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2035-count-sub-islands) |
 ## Strongly Connected Component
 |  |
 | ------- |
@@ -267,4 +271,8 @@
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1240-stone-game-ii) |
+## Union Find
+|  |
+| ------- |
+| [2035-count-sub-islands](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2035-count-sub-islands) |
 <!---LeetCode Topics End-->
