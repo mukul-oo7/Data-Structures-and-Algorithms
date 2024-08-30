@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0040-combination-sum-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -37,6 +38,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Sorting
 |  |
@@ -228,6 +230,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Binary Indexed Tree
 |  |
@@ -269,6 +272,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [1240-stone-game-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1240-stone-game-ii) |
 ## Game Theory
 |  |
