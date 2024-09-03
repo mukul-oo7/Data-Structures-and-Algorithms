@@ -68,6 +68,7 @@
 | [0921-spiral-matrix-iii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1642-water-bottles) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## String
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 | [1720-crawler-log-folder](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2502-sort-the-people) |
