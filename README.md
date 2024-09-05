@@ -10,6 +10,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0870-magic-squares-in-grid) |
+| [0906-walking-robot-simulation](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0948-sort-an-array) |
 | [1121-partition-array-for-maximum-sum](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1121-partition-array-for-maximum-sum) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0592-fraction-addition-and-subtraction) |
+| [0906-walking-robot-simulation](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1642-water-bottles) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -120,6 +122,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0726-number-of-atoms](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0870-magic-squares-in-grid) |
+| [0906-walking-robot-simulation](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1207-delete-nodes-and-return-forest](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
