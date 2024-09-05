@@ -26,6 +26,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2035-count-sub-islands) |
+| [2155-find-missing-observations](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -62,6 +63,7 @@
 | [0870-magic-squares-in-grid](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1642-water-bottles) |
+| [2155-find-missing-observations](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2155-find-missing-observations) |
 ## Simulation
 |  |
 | ------- |
@@ -71,6 +73,7 @@
 | [1642-water-bottles](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1642-water-bottles) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2155-find-missing-observations](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2155-find-missing-observations) |
 ## String
 |  |
 | ------- |
