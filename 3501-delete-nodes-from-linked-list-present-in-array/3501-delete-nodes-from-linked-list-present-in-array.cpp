@@ -12,21 +12,24 @@ class Solution {
 public:
     ListNode* modifiedList(vector<int>& nums, ListNode* head) {
         unordered_set<int> st;
-        for(auto it: nums) st.insert(it);
+        for(int i=0; i<nums.size(); i++) st.insert(nums[i]);
 
-        ListNode* h = new ListNode(-1, head);
-        ListNode* pre = h;
+        ListNode *h = new ListNode(-1);
+        ListNode *t = h;
 
-        while(head){
+        while(head!=NULL){
             if(st.find(head->val)!=st.end()){
-                pre->next = head->next;
                 head=head->next;
-            } else{
-                pre = head;
-                head=head->next;
+                continue;
             }
+
+            t->next = head;
+            head = head->next;
+            t=t->next;
+            t->next = NULL;
         }
 
         return h->next;
+
     }
 };
