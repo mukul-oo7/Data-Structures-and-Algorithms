@@ -34,6 +34,7 @@
 | [2502-sort-the-people](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2502-sort-the-people) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3438-peaks-in-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3438-peaks-in-array) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -134,6 +135,7 @@
 | [2306-create-binary-tree-from-descriptions](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Tree
 |  |
 | ------- |
@@ -240,6 +242,7 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sliding Window
 |  |
 | ------- |
