@@ -87,6 +87,7 @@
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0273-integer-to-english-words](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0592-fraction-addition-and-subtraction) |
@@ -108,6 +109,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0726-number-of-atoms](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0726-number-of-atoms) |
@@ -119,6 +121,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0664-strange-printer](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0664-strange-printer) |
 | [0836-race-car](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0836-race-car) |
 | [1121-partition-array-for-maximum-sum](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1121-partition-array-for-maximum-sum) |
