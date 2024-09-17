@@ -87,6 +87,7 @@
 ## String
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0273-integer-to-english-words](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0539-minimum-time-difference) |
@@ -139,6 +140,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0726-number-of-atoms](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0870-magic-squares-in-grid) |
@@ -289,6 +291,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Binary Indexed Tree
