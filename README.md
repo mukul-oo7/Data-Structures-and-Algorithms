@@ -67,6 +67,7 @@
 ## Math
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0592-fraction-addition-and-subtraction) |
@@ -92,6 +93,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0179-largest-number](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0592-fraction-addition-and-subtraction) |
@@ -126,6 +128,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0032-longest-valid-parentheses) |
+| [0241-different-ways-to-add-parentheses](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0241-different-ways-to-add-parentheses) |
 | [0664-strange-printer](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0664-strange-printer) |
 | [0836-race-car](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0836-race-car) |
 | [1121-partition-array-for-maximum-sum](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1121-partition-array-for-maximum-sum) |
@@ -309,6 +312,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0273-integer-to-english-words) |
 ## Breadth-First Search
 |  |
@@ -361,4 +365,8 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
