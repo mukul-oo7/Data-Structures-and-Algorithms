@@ -119,6 +119,7 @@
 | [3235-minimum-cost-to-convert-string-i](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3541-report-spam-message](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3541-report-spam-message) |
+| [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 ## Stack
 |  |
 | ------- |
@@ -174,6 +175,7 @@
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3541-report-spam-message](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3541-report-spam-message) |
+| [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 ## Tree
 |  |
 | ------- |
@@ -314,6 +316,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
