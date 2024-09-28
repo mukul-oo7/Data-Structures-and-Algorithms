@@ -11,6 +11,7 @@
 | [0539-minimum-time-difference](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0859-design-circular-deque](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0921-spiral-matrix-iii) |
@@ -306,6 +307,7 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -344,6 +346,7 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0859-design-circular-deque](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0859-design-circular-deque) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -397,4 +400,8 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0214-shortest-palindrome) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
