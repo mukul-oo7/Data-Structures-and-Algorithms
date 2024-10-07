@@ -55,6 +55,7 @@
 | [0567-permutation-in-string](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -132,6 +133,7 @@
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3541-report-spam-message](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3541-report-spam-message) |
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
 |  |
 | ------- |
@@ -159,6 +161,7 @@
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2755-extra-characters-in-a-string](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2755-extra-characters-in-a-string) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
 | ------- |
@@ -167,6 +170,7 @@
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Table
 |  |
 | ------- |
