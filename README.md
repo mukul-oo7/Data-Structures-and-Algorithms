@@ -16,6 +16,7 @@
 | [0906-walking-robot-simulation](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0948-sort-an-array) |
+| [1002-maximum-width-ramp](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1002-maximum-width-ramp) |
 | [1121-partition-array-for-maximum-sum](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1121-partition-array-for-maximum-sum) |
 | [1196-filling-bookcase-shelves](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1207-delete-nodes-and-return-forest) |
@@ -144,6 +145,7 @@
 | [0726-number-of-atoms](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1002-maximum-width-ramp) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1720-crawler-log-folder](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1720-crawler-log-folder) |
@@ -431,4 +433,8 @@
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0859-design-circular-deque) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
