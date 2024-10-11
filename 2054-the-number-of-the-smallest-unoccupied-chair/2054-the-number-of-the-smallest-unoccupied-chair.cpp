@@ -14,28 +14,29 @@ public:
             }
         }
         
-        vector<int> sit;
-        int ans;
+        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> pq;
+        set<int> chair;
+
+        int currentChair, nextChair = 0;
 
         for(int i=0; i<=tf; i++){
-            int j;
-
-            for(j=0; j<sit.size(); j++){
-                if(sit[j]<=times[i][0]){
-                    ans = j;
-                    sit[j] = times[i][1];
-                    break;
-                }
+            while(!pq.empty() && pq.top().first<=times[i][0]){
+                chair.insert(pq.top().second);
+                pq.pop();
             }
 
-            if(j==sit.size()){
-                ans = j;
-                sit.push_back(times[i][1]);
+            if(!chair.empty()){
+                currentChair = *chair.begin();
+                chair.erase(chair.begin());
+            } else{
+                currentChair = nextChair++;
             }
+
+            pq.push({times[i][1], currentChair});
         }
 
 
-        return ans;
+        return currentChair;
     }
 };
 
