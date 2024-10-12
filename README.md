@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0040-combination-sum-ii) |
+| [0056-merge-intervals](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -69,6 +70,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0719-find-k-th-smallest-pair-distance) |
