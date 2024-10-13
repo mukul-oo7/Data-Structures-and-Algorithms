@@ -11,6 +11,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0624-maximum-distance-in-arrays) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0859-design-circular-deque](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0870-magic-squares-in-grid) |
@@ -73,6 +74,7 @@
 | [0056-merge-intervals](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0539-minimum-time-difference) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0948-sort-an-array) |
@@ -177,6 +179,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0624-maximum-distance-in-arrays) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -189,6 +192,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0567-permutation-in-string](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0906-walking-robot-simulation) |
@@ -308,6 +312,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0948-sort-an-array) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -355,6 +360,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 ## Binary Indexed Tree
