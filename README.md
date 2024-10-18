@@ -284,6 +284,7 @@
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1877-find-followers-count](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1877-find-followers-count) |
+| [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 ## Matrix
 |  |
 | ------- |
