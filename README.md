@@ -273,6 +273,7 @@
 | [0197-rising-temperature](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0596-classes-more-than-5-students](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0596-classes-more-than-5-students) |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0610-triangle-judgement](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0620-not-boring-movies) |
