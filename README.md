@@ -119,6 +119,7 @@
 | [2155-find-missing-observations](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2411-spiral-matrix-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## String
 |  |
 | ------- |
@@ -155,6 +156,7 @@
 | [3235-minimum-cost-to-convert-string-i](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3541-report-spam-message](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3541-report-spam-message) |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
