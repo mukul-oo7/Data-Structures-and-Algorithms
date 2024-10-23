@@ -57,6 +57,7 @@
 | [3438-peaks-in-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3438-peaks-in-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3541-report-spam-message](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3541-report-spam-message) |
+| [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 ## Two Pointers
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [2155-find-missing-observations](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
+| [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 ## Simulation
 |  |
 | ------- |
@@ -207,6 +209,7 @@
 | [3195-separate-black-and-white-balls](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
+| [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 ## Hash Table
 |  |
 | ------- |
@@ -489,6 +492,7 @@
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
+| [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 ## Brainteaser
 |  |
 | ------- |
