@@ -156,6 +156,7 @@
 | [3195-separate-black-and-white-balls](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3195-separate-black-and-white-balls) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3541-report-spam-message](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3541-report-spam-message) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
@@ -235,6 +236,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3541-report-spam-message](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3541-report-spam-message) |
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 ## Tree
@@ -416,6 +418,7 @@
 | [0567-permutation-in-string](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 ## Binary Indexed Tree
 |  |
