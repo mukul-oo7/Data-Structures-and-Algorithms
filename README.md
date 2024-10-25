@@ -25,6 +25,7 @@
 | [1240-stone-game-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1333-sort-the-jumbled-numbers) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1435-xor-queries-of-a-subarray](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1435-xor-queries-of-a-subarray) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -141,6 +142,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1304-longest-happy-string](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1304-longest-happy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -282,6 +284,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0988-flip-equivalent-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1207-delete-nodes-and-return-forest) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1484-linked-list-in-binary-tree](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -363,6 +366,7 @@
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2755-extra-characters-in-a-string) |
 ## Divide and Conquer
