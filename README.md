@@ -53,6 +53,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2755-extra-characters-in-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -76,6 +77,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2586-longest-square-streak-in-an-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2586-longest-square-streak-in-an-array) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 ## Sorting
 |  |
@@ -94,6 +96,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -196,6 +199,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2586-longest-square-streak-in-an-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2755-extra-characters-in-a-string) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
@@ -240,6 +244,7 @@
 | [2306-create-binary-tree-from-descriptions](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
