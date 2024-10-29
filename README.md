@@ -56,6 +56,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2755-extra-characters-in-a-string) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3438-peaks-in-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3438-peaks-in-array) |
@@ -201,6 +202,7 @@
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2586-longest-square-streak-in-an-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2755-extra-characters-in-a-string) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
@@ -351,6 +353,7 @@
 | [2035-count-sub-islands](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2035-count-sub-islands) |
 | [2411-spiral-matrix-iv](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2472-build-a-matrix-with-conditions) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Graph
 |  |
 | ------- |
