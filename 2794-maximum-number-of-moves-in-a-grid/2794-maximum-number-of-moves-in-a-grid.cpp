@@ -17,12 +17,30 @@ public:
     }
     int maxMoves(vector<vector<int>>& grid) {
         int n=grid.size(), m=grid[0].size();
-        vector<vector<int>> dp(n, vector<int>(m, -1));
+        vector<vector<int>> dp(n, vector<int>(m, 0));
 
-        int ans=0;
+        // int ans=0;
+
+        // for(int i=0; i<n; i++){
+        //     ans = max(ans, helper(i, 0, grid, dp));
+        // }
+
+        for(int j=m-1; j>=0; j--){
+            for(int i=n-1; i>=0; i--){
+
+                for(auto d: dir){
+                    int r = d[0], c=d[1];
+                    if(i+r>=0 && i+r<grid.size() && j+c>=0 && j+c<grid[0].size() && grid[i+r][j+c]>grid[i][j]){
+                        dp[i][j] = max(dp[i][j], 1+dp[i+r][j+c]);
+                    }
+                }
+            }
+        }
+
+        int ans = 0;
 
         for(int i=0; i<n; i++){
-            ans = max(ans, helper(i, 0, grid, dp));
+            ans = max(ans, dp[i][0]);
         }
 
         return ans;
