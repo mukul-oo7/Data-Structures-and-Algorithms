@@ -76,6 +76,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0222-count-complete-tree-nodes) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2586-longest-square-streak-in-an-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2586-longest-square-streak-in-an-array) |
@@ -259,6 +260,7 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0222-count-complete-tree-nodes) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0988-flip-equivalent-binary-trees) |
@@ -276,6 +278,7 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0222-count-complete-tree-nodes) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0988-flip-equivalent-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1207-delete-nodes-and-return-forest) |
@@ -368,6 +371,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0222-count-complete-tree-nodes) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0476-number-complement](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1435-xor-queries-of-a-subarray) |
