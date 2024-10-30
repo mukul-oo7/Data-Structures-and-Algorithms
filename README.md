@@ -36,6 +36,7 @@
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2035-count-sub-islands) |
@@ -78,6 +79,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0222-count-complete-tree-nodes) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2586-longest-square-streak-in-an-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2586-longest-square-streak-in-an-array) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
@@ -201,6 +203,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -215,6 +218,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1304-longest-happy-string) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2616-maximal-score-after-applying-k-operations) |
