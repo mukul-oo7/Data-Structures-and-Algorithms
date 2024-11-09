@@ -389,6 +389,7 @@
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
+| [3394-minimum-array-end](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3394-minimum-array-end) |
 ## Trie
 |  |
 | ------- |
