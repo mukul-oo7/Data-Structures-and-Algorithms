@@ -61,6 +61,7 @@
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3438-peaks-in-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3438-peaks-in-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3541-report-spam-message](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3541-report-spam-message) |
@@ -389,6 +390,7 @@
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3394-minimum-array-end) |
 ## Trie
 |  |
@@ -456,6 +458,7 @@
 | [0567-permutation-in-string](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 ## Binary Indexed Tree
