@@ -58,6 +58,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2716-prime-subtraction-operation) |
 | [2755-extra-characters-in-a-string](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -75,6 +76,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3195-separate-black-and-white-balls) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
@@ -87,6 +89,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2586-longest-square-streak-in-an-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2586-longest-square-streak-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2716-prime-subtraction-operation) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 ## Sorting
@@ -109,6 +112,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Math
