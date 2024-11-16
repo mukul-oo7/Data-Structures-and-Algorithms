@@ -68,6 +68,7 @@
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3438-peaks-in-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3438-peaks-in-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3541-report-spam-message](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3541-report-spam-message) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 ## Two Pointers
@@ -475,6 +476,7 @@
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 ## Binary Indexed Tree
 |  |
