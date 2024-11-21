@@ -50,6 +50,7 @@
 | [2179-most-beautiful-item-for-each-query](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2472-build-a-matrix-with-conditions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -148,6 +149,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2155-find-missing-observations](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2155-find-missing-observations) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2411-spiral-matrix-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
@@ -383,6 +385,7 @@
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2035-count-sub-islands](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2035-count-sub-islands) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2472-build-a-matrix-with-conditions) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2794-maximum-number-of-moves-in-a-grid) |
