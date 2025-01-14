@@ -20,6 +20,7 @@
 | [0948-sort-an-array](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1002-maximum-width-ramp) |
+| [1036-rotting-oranges](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1036-rotting-oranges) |
 | [1121-partition-array-for-maximum-sum](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1121-partition-array-for-maximum-sum) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1196-filling-bookcase-shelves](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1196-filling-bookcase-shelves) |
@@ -395,6 +396,7 @@
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/0921-spiral-matrix-iii) |
+| [1036-rotting-oranges](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -525,6 +527,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1036-rotting-oranges](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1036-rotting-oranges) |
 | [1484-linked-list-in-binary-tree](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/mukul-oo7/Data-Structures-and-Algorithms/tree/master/2035-count-sub-islands) |
